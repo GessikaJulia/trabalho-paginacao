@@ -20,7 +20,7 @@ def algoritmo_lru(matriz_ram):
             indice_vitima = idx
 
     return indice_vitima
-s
+
 
 # ------------------------------
 # TESTE RÁPIDO (opcional)
