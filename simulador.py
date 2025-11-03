@@ -160,8 +160,8 @@ def main():
     # --- CONTROLE ---
     # Mude a string aqui pra testar seu algoritmo
     
-    ALGORITMO_PARA_EXECUTAR = "FIFO"      # (Exemplo pronto)
-    # ALGORITMO_PARA_EXECUTAR = "FIFO-SC"   # (TAREFA)
+    #ALGORITMO_PARA_EXECUTAR = "FIFO"      # (Exemplo pronto)
+    ALGORITMO_PARA_EXECUTAR = "FIFO-SC"   # (TAREFA)
     # ALGORITMO_PARA_EXECUTAR = "RELÓGIO" # (TAREFA)
     # ALGORITMO_PARA_EXECUTAR = "NRU"       # (TAREFA)
     # ALGORITMO_PARA_EXECUTAR = "LRU"       # (TAREFA)
