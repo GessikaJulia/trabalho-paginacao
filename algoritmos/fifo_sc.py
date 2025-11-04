@@ -1,7 +1,5 @@
 # --- ALGORITMO 2: FIFO-SC (Liliany) ---
 # ---------------------------------------------------------------
-# Retorna (indice_da_vitima, novo_ponteiro)
-# ---------------------------------------------------------------
 
 def algoritmo_fifo_sc(matriz_ram, ponteiro_atual):
     """
